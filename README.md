@@ -12,7 +12,7 @@ This repository is for practicing a centralized workflow (clone, commit, push) a
 
 What became interesting to me was the idea that as AI gets better and better at coding, the bottleneck shifts. It’s not about how fast we can churn out lines of code anymore—it’s about the high-level work: planning, reviewing, and coordinating. In that sense, writing code is becoming close to “free”; the real job is making sure the software does what it’s supposed to do and doesn’t break anything else in the process.
 
-I also thought the point about the harness around the model was spot on. Using Codex in a sandbox with restricted network and file access isn’t optional—it’s a necessity. Since these agents can fail in weird ways or get tripped up by bad instructions, giving them a safe place to experiment without touching production is just smart engineering.
+I also thought the point about the harness around the model was spot on. Using Codex in a sandbox with restricted network and file access isn’t optional—it’s a necessity. Since these agents can fail in weird ways or get tripped up by bad instructions, giving them a very safe place to experiment without touching production is just smart engineering.
 
 ## Citation
 
